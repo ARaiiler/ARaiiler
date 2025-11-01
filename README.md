@@ -15,7 +15,7 @@ My work spans from enterprise-grade process automation tools to RAG-based AI ass
 
 ## 🚀 Featured Projects
 - 🧠 **Smart Security System for Marsa Maroc** – Real-time AI container monitoring system  
-  → Reduced inspection time by **40%**, improved accuracy by **30%**, and automated ISO detection
+  → Reduced inspection time by **40%**, improved accuracy by **30%**, and automated ISO detection  
   🔗 [View on GitHub](https://github.com/ARaiiler/container-monitoring-system) 
 - 📁 **Electronic Document Management System (GED)** – Full-stack React + Node.js app  
   → Cut file retrieval time by **50%** and boosted collaboration efficiency by **60%**  
